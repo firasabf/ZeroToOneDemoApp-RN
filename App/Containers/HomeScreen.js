@@ -11,7 +11,7 @@ import YTSearch from 'youtube-api-search';
 
 
 // api key must be saved in an .env file 
-const API_KEY = 'AIzaSyCh2s8lPGE4xpjLdpWv_WvgYzAFn6OuXzY'
+const API_KEY = ''
 
 
 class HomeScreen extends Component {
